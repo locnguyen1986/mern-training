@@ -4,3 +4,4 @@
 		-> MERN: https://www.youtube.com/watch?v=aM_XIWjxcYA
 		
 2) Scope dự án: làm một cái tutorial GPT online ( AI search -> ... ). Blog	
+ccc
